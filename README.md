@@ -12,7 +12,7 @@
 
 ## Stats so far
 
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=tokiyonight)
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=merko)
 
 <!--
 **rajatsahu18/rajatsahu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
