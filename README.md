@@ -16,6 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&layout=compact)](https://github.com/rajatsahu18/github-readme-stats)
 
+## Let's Connect
+
+[![GitHub](https://camo.githubusercontent.com/54cb33432a7f25c37d77b6c6222f84cc7d834eab9c4fa519e24b48e8a08dbb12/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35302f6769746875622e706e67)](https://github.com/rajatsahu18)
+
 <!--
 **rajatsahu18/rajatsahu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
