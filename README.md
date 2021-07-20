@@ -14,6 +14,8 @@
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave&count_private=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&layout=compact)](https://github.com/rajatsahu18/github-readme-stats)
 
 ## Let's Connect
