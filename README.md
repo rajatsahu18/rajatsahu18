@@ -27,11 +27,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&layout=compact)](https://github.com/rajatsahu18/github-readme-stats)
 
+[![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajatsahu18&theme=redical)](https://github.com/rajatsahu18/github-readme-activity-graph)
+
+
 ## 🌏 Find me here too
 
 [![GitHub](https://camo.githubusercontent.com/98812a998157d60156268de371c88e4cf7c5f0aad96301128aa2a8dd0d8baab0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769746875622e696f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)](https://github.com/rajatsahu18)
 [![LinkedIn](https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/rajat-sahu-102791147/)
 [![Gmail](https://camo.githubusercontent.com/5e1eb2665e70b8f3090d6d471f7cd75eb8e2081b1ecd7181f0b932e55fa19a5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474d41494c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](https://mail.google.com/mail/u/0/#inbox)
+
 
 <!--
 **rajatsahu18/rajatsahu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
