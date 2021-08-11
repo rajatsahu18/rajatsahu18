@@ -2,7 +2,7 @@
 
 <h2 align = "center" > Hi there 👋 I am Rajat Sahu an aspiring full stack web developer residing in Uttar Pradesh, India. </h2>
 
-<h3 align = "center" >A team player with an eye for detail, proficient in working with interdisciplinary teams and executing result-oriented projects. Looking forward to an exciting opportunity to work with other developers within a prestigious organization.</h3>
+<h3 align = "center" >A team player with an eye for detail, proficient in working with interdisciplinary teams and executing result-oriented projects. Looking forward to an exciting opportunity to work with other developers within an organization.</h3>
 
 ## 🙋‍♂️ About Me
 
