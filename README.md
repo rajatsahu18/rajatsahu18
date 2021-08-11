@@ -1,6 +1,8 @@
-## Hi there 👋 I am Rajat Sahu an aspiring full stack web developer residing in Uttar Pradesh, India. 
+![Image](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)
 
-### A team player with an eye for detail, proficient in working with interdisciplinary teams and executing result-oriented projects. Looking forward to an exciting opportunity to work with other developers within a prestigious organization.
+<h2 align = "center" > Hi there 👋 I am Rajat Sahu an aspiring full stack web developer residing in Uttar Pradesh, India. </h2>
+
+<h3 align = "center" >A team player with an eye for detail, proficient in working with interdisciplinary teams and executing result-oriented projects. Looking forward to an exciting opportunity to work with other developers within a prestigious organization.</h3>
 
 ## 🙋‍♂️ About Me
 
