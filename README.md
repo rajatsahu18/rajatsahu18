@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://camo.githubusercontent.com/94f4ab86db152c9428afdffb02472f974c1b4bd5b3bce499c6dafb51859214b6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966">
+    <img width="33%" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
 </p>
 
 <h2 align = "center" > Hi there 👋 I am Rajat Sahu an aspiring full stack web developer residing in Uttar Pradesh, India. </h2>
@@ -23,11 +23,17 @@
 
 ## 📊 Stats so far
 
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave&count_private=true)
+<p align="center" width="100%">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave&count_private=true">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly&count_private=true)](https://git.io/streak-stats)
+<p align="center" width="100%">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly&count_private=true)](https://git.io/streak-stats">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&layout=compact)](https://github.com/rajatsahu18/github-readme-stats)
+<p align="center" width="100%">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&layout=compact)](https://github.com/rajatsahu18/github-readme-stats">
+</p>
 
 [![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajatsahu18&theme=redical)](https://github.com/rajatsahu18/github-readme-activity-graph)
 
