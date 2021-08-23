@@ -1,4 +1,6 @@
-![Image](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)
+<p align="center" width="100%">
+    <img width="33%" src="https://camo.githubusercontent.com/94f4ab86db152c9428afdffb02472f974c1b4bd5b3bce499c6dafb51859214b6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966">
+</p>
 
 <h2 align = "center" > Hi there 👋 I am Rajat Sahu an aspiring full stack web developer residing in Uttar Pradesh, India. </h2>
 
