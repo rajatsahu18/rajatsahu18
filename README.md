@@ -24,11 +24,11 @@
 ## 📊 Stats so far
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave&count_private=true">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave&count_private=true">
 </p>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly&count_private=true)](https://git.io/streak-stats">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly&count_private=true)](https://git.io/streak-stats">
 </p>
 
 <p align="center" width="100%">
