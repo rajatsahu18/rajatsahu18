@@ -10,7 +10,7 @@
 
 #### 🌱 I’m a full satck web developer.
 #### 👯 I’m looking to collaborate with various peoples for various projects.
-#### 🌱 I'm currently learning React Native
+<!-- #### 🌱 I'm currently learning React Native -->
 #### 💬 Ask me about HTML, CSS, React, React Native, Redux, JavaScript, TypeScript
 
 ## 🚀 Teck Stacks
