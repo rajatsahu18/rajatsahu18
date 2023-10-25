@@ -44,7 +44,7 @@
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly&count_private=true)](https://git.io/streak-stats">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&theme=synthwave)
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave)
 
