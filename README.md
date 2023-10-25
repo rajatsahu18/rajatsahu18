@@ -48,7 +48,7 @@
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajatsahu18&theme=synthwave)](https://github.com/rajatsahu18/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajatsahu18&theme=radical)](https://github.com/rajatsahu18/github-profile-trophy)
 
 ## 🌏 Find me here too
 
