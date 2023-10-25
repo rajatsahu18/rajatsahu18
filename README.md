@@ -2,14 +2,14 @@
     <img width="33%" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
 </p>
 
-<h2 align = "center" > Hi there 👋 I am Rajat Sahu full stack web developer residing in Bengaluru, India.</h2>
+<h2 align = "center" > Hi there 👋 I am Rajat Sahu an Experienced full stack web developer with a strong background in pivotal projects and freelancing, showcasing expertise in both front-end and back-end technologies. Adept at delivering high-quality web solutions, combining technical proficiency with creative problem-solving skills.</h2>
 
 <h2 align = "center" > Former Software Engineer at Loctell Solutions</h2>
 
 ## 🙋‍♂️ About Me
 
-#### 🌱 I’m a full satck web developer.
-#### 👯 I’m looking to collaborate with various peoples for various projects.
+#### 🌱 I’m a full-stack web developer.
+#### 👯 I’m looking to collaborate with various people for various projects.
 <!-- #### 🌱 I'm currently learning React Native -->
 #### 💬 Ask me about HTML, CSS, React, React Native, Redux, JavaScript, TypeScript
 
