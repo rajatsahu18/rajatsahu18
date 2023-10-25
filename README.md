@@ -44,9 +44,7 @@
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsahu18&theme=jolly&count_private=true)](https://git.io/streak-stats">
 </p>
 
-<p align="center" width="100%">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsahu18&layout=compact)](https://github.com/rajatsahu18/github-readme-stats">
-</p>
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahu18&show_icons=true&theme=gruvbox)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajatsahu18&theme=onedark)](https://github.com/rajatsahu18/github-profile-trophy)
 
